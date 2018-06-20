@@ -5,7 +5,7 @@
 1. Explain what a `yield` statement in `layout.erb` does and why we use it
 2. Implement a yield statement in `layout.erb`
 
-## Layout
+## Layoutd
 
 If you look at pretty much every website, you'll notice that there are things that exist across all of the site's pages. Typically, the navigation bar and the footer content stay the same. There may also be menu options that stay consistent across all pages.
 
